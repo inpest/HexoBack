@@ -1,7 +1,10 @@
 ---
 title: 关于git的一些命令
 date: 2019-12-22 11:04:02
+categories: 
+- 技术探索
 tags:
+- 小技巧
 ---
 # **Git和Github的一些基础命令** 
 <!-- more -->
