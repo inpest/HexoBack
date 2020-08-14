@@ -2,7 +2,10 @@
 title: ET框架探索之初入MongoDB
 date: 2019-11-21 15:41:15
 categories: 
+- Unity
 - ET框架学习笔记
+tags :
+- ET
 ---
 # 前言
 这是我对于ET框架学习的第一个知识点的探索，因为要深入一个游戏框架要掌握的知识点非常多，幸好有方向就有了动力，首先了解ET框架所使用的MongoDB数据库
@@ -187,3 +190,6 @@ db.collection.remove(
 # 不应该使用MogoDB的场景
 - 对于事务性强的数据
 - 对于复杂查询等
+
+# 参考链接
+菜鸟教程:https://www.runoob.com/mongodb/mongodb-tutorial.html
